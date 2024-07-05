@@ -132,7 +132,7 @@ FormPanel.propTypes = {
   shouldShowSteps: PropTypes.bool,
   updateCourse: PropTypes.func.isRequired,
   isValid: PropTypes.bool.isRequired,
-}
+};
 
 export default FormPanel;
 function __guard__(value, transform) {
